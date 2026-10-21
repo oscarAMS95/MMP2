@@ -1,0 +1,17 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Practica 2: Caos en sistemas biologicos'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Oscar Augusto
+    family-names: Martinez Salinas
+    email: m25210052@tectijuana.edu.mx
+    affiliation: TecnNM / IT Tijuana
+repository-code: 'https://github.com/oscarAMS95/MMP2'
+license: BSD-2-Clause
+version: '1.0'
